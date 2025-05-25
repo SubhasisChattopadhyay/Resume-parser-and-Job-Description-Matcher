@@ -1,4 +1,4 @@
-#Resume Parser and Job Description Matcher
+Resume Parser and Job Description Matcher
 
 Approach to the Task
 Data Collection and Preparation:
